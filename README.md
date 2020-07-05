@@ -4,4 +4,4 @@
  
  admin folder: Giao diện admin
  
- interface follder:  Giao diện người dùng
+ interface folder:  Giao diện người dùng
