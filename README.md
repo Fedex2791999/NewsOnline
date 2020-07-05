@@ -5,3 +5,6 @@
  admin folder: Giao diện admin
  
  interface folder:  Giao diện người dùng
+
+# Link deploy to heroku
+http://news-online.herokuapp.com/
